@@ -81,7 +81,7 @@ The ligth venv switch activates and deactivate the virtual environment for a pro
 > To deactivate the virtual environment, simply leave the project directory.
 >```console
 > $ cd ..
-> $ 👉 Virtualenv deactivated 🚀
+> $ 👉 Virtualenv deactivated 🤓
 > ```
 
 ## 🤝 Contributing
