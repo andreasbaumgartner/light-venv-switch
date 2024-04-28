@@ -1,5 +1,5 @@
 # automaticly activate venv if exist and prompt a message
-function sv() {
+export function cd() {
   builtin cd "$@"
   local message_activ="👉 Virtualenv activated 🚀"
   local message_deactiv="👉 Virtualenv deactivated 🤓"
