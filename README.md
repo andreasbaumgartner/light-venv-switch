@@ -52,7 +52,7 @@ The ligth venv switch activates and deactivate the virtual environment for a pro
 
 <h4>From <code>source</code></h4>
 
-> 1. ZAP / Clone the repository to your zsh plugins directory:
+> 1. zap / Clone the repository to your zsh plugins directory:
 >
 > ```console 
 > $ git clone https://github.com/andreasbaumgartner/light-venv-switch.git "$HOME/.locacl/share/zap/plugins/light-venv-switch"
