@@ -8,7 +8,6 @@
     <em>Automated Virtualenv venv switch for projects<>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/andreasbaumgartner/light-venv-switch?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/andreasbaumgartner/light-venv-switch?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/andreasbaumgartner/light-venv-switch?style=flat&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/andreasbaumgartner/light-venv-switch?style=flat&color=0080ff" alt="repo-language-count">
@@ -47,7 +46,7 @@ The ligth venv switch activates and deactivate the virtual environment for a pro
 
 **System Requirements**
 
-* **Python**: `zsh` or `oh-my-zsh / zap` installed
+* **zsh**: `zsh` or `oh-my-zsh / zap` installed
 
 ### ⚙️ Installation
 
